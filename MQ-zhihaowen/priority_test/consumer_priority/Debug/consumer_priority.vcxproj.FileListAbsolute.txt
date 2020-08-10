@@ -1,0 +1,2 @@
+D:\Desktop\MQtest\test01-MQ\priority_test\consumer_priority\Debug\consumer_priority.exe
+D:\Desktop\MQtest\test01-MQ\priority_test\consumer_priority\Debug\consumer_priority.pdb
