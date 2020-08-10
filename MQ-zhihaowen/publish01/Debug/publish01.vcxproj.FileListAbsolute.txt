@@ -1,0 +1,4 @@
+D:\Desktop\MQtest\test01-MQ测试\publish01\Debug\publish01.exe
+D:\Desktop\MQtest\test01-MQ测试\publish01\Debug\publish01.pdb
+D:\Desktop\MQtest\test01-MQ\publish01\Debug\publish01.exe
+D:\Desktop\MQtest\test01-MQ\publish01\Debug\publish01.pdb
