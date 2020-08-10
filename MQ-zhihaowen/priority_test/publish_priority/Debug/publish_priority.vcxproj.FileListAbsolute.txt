@@ -1,2 +1,0 @@
-D:\Desktop\MQtest\test01-MQ\priority_test\publish_priority\Debug\publish_priority.exe
-D:\Desktop\MQtest\test01-MQ\priority_test\publish_priority\Debug\publish_priority.pdb

@@ -1,4 +1,0 @@
-D:\Desktop\MQtest\test01-MQ测试\consumer01\Debug\consumer01.exe
-D:\Desktop\MQtest\test01-MQ测试\consumer01\Debug\consumer01.pdb
-D:\Desktop\MQtest\test01-MQ\consumer01\Debug\consumer01.exe
-D:\Desktop\MQtest\test01-MQ\consumer01\Debug\consumer01.pdb
